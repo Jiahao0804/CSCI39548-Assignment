@@ -1,6 +1,11 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     background-color: rgb(117, 84, 130);
     text-align: center;
   }
 
+
+img {
+    width: 90vh;
+    height: 70vh;
+}
