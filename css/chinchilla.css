@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    background-color: grey;
+    text-align: center;
+  }
+
+
+img {
+    width: 100vh;
+    height: 72vh;
+}
