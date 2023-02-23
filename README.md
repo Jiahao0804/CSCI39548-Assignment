@@ -1,5 +1,5 @@
 # CSCI39548-Assignment 1
-CSCI39548 Practical Web Development Assignment
+CSCI39548 Practical Web Development Assignment 1
 
 Github username: Jiahao0804
 
