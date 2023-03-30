@@ -39,8 +39,9 @@ Website link
 
    1. Create your GitHub Pages home website
 
-   Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website https://[your GitHub username].github.io The instructions on how to create your GitHub Pages home website are available at this link.
+ Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website https://[your GitHub username].github.io The instructions on how to create your GitHub Pages home website are available at this link.
+
 
    2. Deploy the application to GitHub Pages
 
-   Follow the instructions at this link to deploy your application to GitHub Pages.
+ Follow the instructions at this link to deploy your application to GitHub Pages.
