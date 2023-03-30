@@ -11,13 +11,13 @@ https://jiahao0804.github.io/CSCI39548-Assignment-1/
 <br>
 zoo-starter-code
 <br>
-This repository is the starter code for Assignment 1 - Zoo.
+This repository is the starter code for Assignment 1 - Zoo.  
 <br>
 
 
-Live Link
+Live Link  
 <br>
-Website link
+Website link  
 <br>
 
 1. Use the following process to import the Assignment 1 starter code repository to your GitHub account as your starter codebase
