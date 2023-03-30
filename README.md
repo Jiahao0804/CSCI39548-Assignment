@@ -12,6 +12,7 @@ https://jiahao0804.github.io/CSCI39548-Assignment-1/
 zoo-starter-code
 <br>
 This repository is the starter code for Assignment 1 - Zoo.
+<br>
 
 Live Link
 Website link
@@ -27,11 +28,13 @@ Website link
 7) Click on the "Begin import" button to start the process
 8) After the process completed, your new "assignment-1" repository is created – as a completely independent codebase
 9) From this point on, you can clone your new repository, make changes, create feature branches, and create/merge pull requests
+<br>
 
 
 2. Use the information below to clone the starter codebase to your local machine
 
    After creating the starter codebase "assignment-1" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this link.
+<br>
 
 3. Set up and deploy the application to GitHub Pages
 
