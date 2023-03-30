@@ -27,7 +27,7 @@ Website link
 7) Click on the "Begin import" button to start the process
 8) After the process completed, your new "assignment-1" repository is created – as a completely independent codebase
 9) From this point on, you can clone your new repository, make changes, create feature branches, and create/merge pull requests
-<br>
+
 
 2. Use the information below to clone the starter codebase to your local machine
 
