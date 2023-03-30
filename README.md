@@ -31,16 +31,16 @@ Website link
 
 2. Use the information below to clone the starter codebase to your local machine
 
-After creating the starter codebase "assignment-1" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this link.
+   After creating the starter codebase "assignment-1" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this link.
 
 3. Set up and deploy the application to GitHub Pages
 
-After your application development, you can deploy the application to GitHub Pages using the process below.
+   After your application development, you can deploy the application to GitHub Pages using the process below.
 
-1. Create your GitHub Pages home website
+   1. Create your GitHub Pages home website
 
-Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website https://[your GitHub username].github.io The instructions on how to create your GitHub Pages home website are available at this link.
+   Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website https://[your GitHub username].github.io The instructions on how to create your GitHub Pages home website are available at this link.
 
-2. Deploy the application to GitHub Pages
+   2. Deploy the application to GitHub Pages
 
-Follow the instructions at this link to deploy your application to GitHub Pages.
+   Follow the instructions at this link to deploy your application to GitHub Pages.
