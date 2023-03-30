@@ -9,14 +9,10 @@ https://jiahao0804.github.io/CSCI39548-Assignment-1/
 
 
 <br>
-zoo-starter-code
-<br>
-This repository is the starter code for Assignment 1 - Zoo.  
-<br>
-
+zoo-starter-code  
+This repository is the starter code for Assignment 1 - Zoo.    
 
 Live Link  
-<br>
 Website link  
 <br>
 
